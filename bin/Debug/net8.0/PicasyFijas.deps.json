@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PicasyFijas/1.0.0": {
+        "runtime": {
+          "PicasyFijas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PicasyFijas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

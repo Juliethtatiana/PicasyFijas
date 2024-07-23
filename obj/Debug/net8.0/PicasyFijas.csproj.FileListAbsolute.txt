@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\bin\Debug\net8.0\PicasyFijas.exe
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\bin\Debug\net8.0\PicasyFijas.deps.json
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\bin\Debug\net8.0\PicasyFijas.runtimeconfig.json
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\bin\Debug\net8.0\PicasyFijas.dll
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\bin\Debug\net8.0\PicasyFijas.pdb
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.AssemblyInfo.cs
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.sourcelink.json
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.dll
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\refint\PicasyFijas.dll
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.pdb
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\PicasyFijas.genruntimeconfig.cache
+C:\Users\Asus\Documents\gitProjects\PicasyFijas\obj\Debug\net8.0\ref\PicasyFijas.dll
